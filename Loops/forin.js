@@ -1,5 +1,5 @@
 //iterar en un objeto (permite keys y values)
-const person = {name:"John", lname:"Doe", age:51};
+const person = {name:"John", lname:"Doe", age:52};
 
 for (let x in person) {
     let name = person[x];
