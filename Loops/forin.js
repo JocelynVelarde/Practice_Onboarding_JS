@@ -1,9 +1,9 @@
-//iterar en un objeto
-const person = {fname:"John", lname:"Doe", age:25};
+//iterar en un objeto (permite keys y values)
+const person = {name:"John", lname:"Doe", age:25};
 
 for (let x in person) {
     let name = person[x];
-    console.log(name);
+    console.log(x + ": " + name);
 }
 
 //iterar en un array (no usar cuando el orden es importante)
