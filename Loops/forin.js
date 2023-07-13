@@ -6,6 +6,11 @@ for (let x in person) {
     console.log(x + ": " + name);
 }
 
+for (let x in person) {
+    let name = person[x];
+    console.log(name);
+}
+
 //iterar en un array (no usar cuando el orden es importante)
 const fruits = ["Apple", "Orange", "Apple", "Mango"];
 
