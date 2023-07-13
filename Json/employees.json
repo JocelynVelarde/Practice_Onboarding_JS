@@ -20,8 +20,8 @@
         "Employee4": {
             "Name": "Ryan",
             "Age": "28",
-            "City": "California"
+            "City": "California",
+            "Interests": ["Sports", "Music", "Movies", "Coding", "Netflix"]
         }
-
     }
 }
