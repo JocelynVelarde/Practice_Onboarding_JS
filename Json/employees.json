@@ -1,0 +1,27 @@
+{
+    "Employees": {
+        "Employee1": {
+            "Name": "John",
+            "Age": "30",
+            "City": "New York",
+            "Interests": ["Sports", "Music", "Movies"]
+        },
+        "Employee2": {
+            "Name": "Peter",
+            "Age": "35",
+            "City": "Atlanta",
+            "Interests": ["Coding", "Netflix"]
+        },
+        "Employee3": {
+            "Name": "Sam",
+            "Age": "25",
+            "City": "New Jersey"
+        },
+        "Employee4": {
+            "Name": "Ryan",
+            "Age": "28",
+            "City": "California"
+        }
+
+    }
+}
