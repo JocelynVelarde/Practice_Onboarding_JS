@@ -10,4 +10,3 @@ console.log(nombre, apellido, edad);
 var nombre = "Pedro";
 
 console.log(nombre, apellido, edad);
-

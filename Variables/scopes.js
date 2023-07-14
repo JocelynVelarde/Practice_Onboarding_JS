@@ -16,14 +16,3 @@ myFunction();
 
 //el nombre y color no se puede acceder porque no es global
 console.log(nombre, color);
-
-
-
-
-
-
-
-
-
-
-

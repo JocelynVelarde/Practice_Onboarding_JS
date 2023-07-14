@@ -20,5 +20,15 @@ for (let i = 0; i < colores.length; i++) {
 //no se puede reasignar
 colores = ["Verde", "Azul", "Amarillo"];
 for (let i = 0; i < colores.length; i++) {
-    console.log(colores[i]);
-  }
+  console.log(colores[i]);
+}
+
+const objPersona = {
+  nombre: "Juan",
+  edad: 23,
+  apellido: "Perez",
+};
+
+objPersona["altura"] = 1.7;
+
+console.log(objPersona.altura + objPersona.nombre);
